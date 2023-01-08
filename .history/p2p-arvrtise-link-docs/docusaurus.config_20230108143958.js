@@ -66,8 +66,8 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://p2p.arvrtise.link',
-            label: 'P2P ARVRtise Link',
+            href: 'https://arvrtise.com',
+            label: 'ARVRtise',
             position: 'right',
           },
         ],
@@ -89,7 +89,7 @@ const config = {
             items: [
               {
                 label: 'Official Website',
-                href: 'https://p2p.arvrtise.link',
+                href: 'https://arvrtise.com',
               },
               {
                 label: 'Discord',
@@ -105,8 +105,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'ARVRtise',
-                href: 'https://arvrtise.com',
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'P2P Link ARVRtise',
+                href: 'https://p2p.arvrtise.link',
               },
             ],
           },
