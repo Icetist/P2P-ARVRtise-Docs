@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://cdn.discordapp.com/attachments/885415344154501181/1061597648479600660/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -53,10 +53,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
+        title: 'P2P ARVRtise Link Docs',
         logo: {
           alt: 'P2P ARVRtise Link Docs Logo',
-          src: 'https://media.discordapp.net/attachments/885415344154501181/1061595557757460550/P2P_Link_1_50.png?height=32&width=136',
+          src: 'https://media.discordapp.net/attachments/1047420970371121153/1061571318635565066/imgonline-com-ua-twotoone-PKdDUZP614Q.png',
         },
         items: [
           {
